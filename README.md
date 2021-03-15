@@ -4,9 +4,9 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge. This page started life as a Frontend Mentor Challenge. 🎉 Coded by [Youssef Mohamed](#).
+Thanks for checking out this front-end coding challenge. This page started life as a Frontend Mentor Challenge. 🎉 Coded by [Youssef Mohamed](https://github.com/YoussefMohamed2k19/Testimonials-Slider-Challenge).
 
-For Live Preview: [Click Here](#).
+For Live Preview: [Click Here](https://youssefmohamed2k19.github.io/Testimonials-Slider-Challenge/).
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
