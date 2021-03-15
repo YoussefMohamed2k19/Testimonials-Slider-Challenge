@@ -10,7 +10,7 @@ For Live Preview: [Click Here](https://youssefmohamed2k19.github.io/Testimonials
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
-**To do these challenges, you need a basic understanding of HTML, CSS and (sometimes) JavaScript.**
+**To do these challenges, you need a basic understanding of HTML, CSS and JavaScript.**
 
 ## Where to find everything
 
@@ -31,5 +31,7 @@ There are multiple places you can share your solution:
 Feedback is always welcome, so if you have any on this challenge please email **Matt** at matt[at]frontendmentor[dot]io.
 
 This challenge is completely free. Please share it with anyone who will find it useful to practice on.
+
+For Contact on Twitter [Click Here](https://twitter.com/Youssefmohame_d)
 
 **Have fun building!** 🚀
